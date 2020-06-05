@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1578748898 source:c:\users\paul\desktop\desk1\spbu\4\4.1\wa\at1\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1578741738 source:c:\users\paul\desktop\desk1\spbu\4\4.1\wa\at1\src.rc
+	"windows.h"
+
+1578761714 source:c:\users\paul\desktop\desk1\spbu\4\4.1\wa\cbp_project\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<iostream>
+
